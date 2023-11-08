@@ -5,7 +5,7 @@
 
 <img align="right" width="450" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 
-- 🔭 I’m currently working on **5G Security & Networking**
+- 🔭 I’m currently working on **An app in making, 5G Security & Networking**
 
 - 🌱 I’m currently learning **SecOps**
 
